@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "e+RjKWOdOr+GJAUlhAuj8ecxOQazd4eA+Z4zi7aE0C+vuT1bAOMY9gtfVE8ErUdYcRHueGAOTnitpFB9VuYoog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ER\\Documents\\Moji_Projekti\\ProjektOOPErikaRaguž\\DAL\\DAL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ER\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ER\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ER\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ER\\.nuget\\packages\\restsharp\\106.11.2\\restsharp.106.11.2.nupkg.sha512"
+  ],
+  "logs": []
+}
